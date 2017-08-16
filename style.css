@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+  margin: 50px;
+}
+h1 {
+  font-family: Cabin Condensed;
+  font-size: 22px;
+  text-align: center;
+  color: green;
+}
+h3 {
+  font-family: Cabin Condensed;
+  font-size: 15px;
+  text-align: center;
+  color: green;
+}
+h2  {
+  font-family: Cabin Condensed;
+  font-size: 20px;
+  color: green;
+  text-align: center;
+}			
+h4 {
+  color: black
+  margin-left: 40px;
+}
+  
+
+
+
